@@ -2,6 +2,10 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+# Example View
+
+To check existing tasks go to 25 dec 2024 or 27 dec 2024 in the calendar app on your phone.
+
 ## Get started
 
 1. Install dependencies
